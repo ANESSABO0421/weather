@@ -1,0 +1,9 @@
+.hourly-item{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    color: black;
+    width: 80px;
+    margin-right: 10px;
+    flex: 0 0 auto;
+}
